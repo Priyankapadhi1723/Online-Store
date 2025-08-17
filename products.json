@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "image": "C:UserspadhiOneDriveDesktoplaptoimage.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "price": 2000,
+    "image": "C:UserspadhiOneDriveDesktopheadphonesimage.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone",
+    "price": 30000,
+    "image": "C:UserspadhiOneDriveDesktopsmartphoneimage.jpeg"
+  }
+]
